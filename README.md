@@ -2,9 +2,9 @@
 
 [![Build Status](https://secure.travis-ci.org/homonecloco/bioruby-faidx.png)](http://travis-ci.org/homonecloco/bioruby-faidx)
 
-Full description goes here
+API to work with the fai format produced to samtools. Useful if you don't want to rely on all the samtools component. 
+Can query sequences from the fasta file. At the minute, it uses bio-samtools, but the idea is to make this self-sufficient. 
 
-Note: this software is under active development!
 
 ## Installation
 
